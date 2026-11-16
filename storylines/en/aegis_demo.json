@@ -1,0 +1,20 @@
+{
+  "title": "AEGIS Focus Mission Demo",
+  "missions": [
+    {
+      "title": "Calibrate your objective",
+      "briefing": "Your focus terminal is online. Choose one concrete task and make it visible. Let the mission begin with clarity rather than urgency.",
+      "objective": "Write down the one task that matters most right now."
+    },
+    {
+      "title": "Cross the noise field",
+      "briefing": "Peripheral signals keep changing, but your selected task remains centered. Stay with the plan and let distractions pass without following them.",
+      "objective": "Finish one verifiable intermediate step."
+    },
+    {
+      "title": "Archive the mission",
+      "briefing": "This session is ending. Capture the result, note remaining risks, and leave a clear re-entry point for your next session.",
+      "objective": "Save your progress and identify the next action."
+    }
+  ]
+}
